@@ -1,0 +1,12 @@
+[1mdiff --git a/index.html b/index.html[m
+[1mindex 1c63764..3c1f0b1 100644[m
+[1m--- a/index.html[m
+[1m+++ b/index.html[m
+[36m@@ -6,6 +6,7 @@[m
+ <body>[m
+ [m
+ <h1>Exporter Brief</h1>[m
+[32m+[m[32m<img src="logo.png">[m
+ <p>Exporter is a platform that enables businesses to seamlessly and successfully export their products.</p>[m
+ [m
+ </body>[m
